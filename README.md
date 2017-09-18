@@ -11,3 +11,18 @@ LNPP Stack (Nginx, PHP, and Postgres) using docker-compose
 >
 > ```
 
+## Install
+Clone this repo then install with docker-compose
+
+```bash
+$ docker-compose up
+```
+
+## Components
+
+* <b>html</b> : Root folder of nginx
+* <b>site.conf</b> : Conf file of nginx
+
+## To-do
+
+* <b>PostgresSQL</b> : https://github.com/postgres/postgres
